@@ -9,7 +9,7 @@
 |--------|----------|-----------|
 | Trương Khánh Quyên | Trưởng nhóm (Leader) | Tạo repo GitHub, viết README, quản lý tài liệu |
 | Nguyễn Ngọc Anh Thư | Lập trình viên Frontend | Thiết kế giao diện HTML/CSS |
-| Nhữ Mai Gia Hoàng | Lập trình viên Backend | Viết Flask API, xử lý logic đơn hàng |
+| Nhữ Mai Gia Hoàng | Lập trình viên Backend | phần xử lý chương trình, xử lý logic đơn hàng |
 | Phạm Bảo Ngọc | Tester | Kiểm thử và viết test case |
 | Nguyễn Thị Minh Thương | Báo cáo viên | Tổng hợp tiến độ, nộp bài và thuyết trình |
 
