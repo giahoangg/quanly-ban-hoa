@@ -40,7 +40,7 @@ quanly-ban-hoa/
 
 ---
 
-## 🗂️ CÁCH SỬ DỤNG GITHUB
+## CÁCH SỬ DỤNG GITHUB
 
 ### 1. Tạo repository
 - Truy cập [https://github.com](https://github.com) → **New Repository**
@@ -75,17 +75,17 @@ quanly-ban-hoa/
 
 | Ngày | Công việc | Người thực hiện | Trạng thái |
 |------|------------|------------------|-------------|
-| 2025-10-10 | Tạo repository GitHub, thêm README.md |Trương Khánh Quyên | ✅ Hoàn thành |
-| 2025-10-12 | Thiết kế giao diện HTML/CSS cơ bản | Nguyễn Ngọc Anh Thư | 🔨 Đang thực hiện |
-| 2025-10-14 | Tạo API backend Flask | Thành viên 3 | 📥 Nhữ Mai Gia Hoàng |
-| 2025-10-16 | Kiểm thử và viết test case | Thành viên 4 | 📥 Phạm Bảo Ngọc |
-| 2025-10-18 | Tổng hợp báo cáo và nộp bài | Thành viên 5 | 📥 Nguyễn Thị Minh Thương |
+| 2025-10-10 | Tạo repository GitHub, thêm README.md |Trương Khánh Quyên | Hoàn thành |
+| 2025-10-12 | Thiết kế giao diện HTML/CSS cơ bản | Nguyễn Ngọc Anh Thư | Đang thực hiện |
+| 2025-10-14 | Tạo API backend Flask | Thành viên 3 | Nhữ Mai Gia Hoàng |
+| 2025-10-16 | Kiểm thử và viết test case | Thành viên 4 | Phạm Bảo Ngọc |
+| 2025-10-18 | Tổng hợp báo cáo và nộp bài | Thành viên 5 | Nguyễn Thị Minh Thương |
 
 ---
 
 ## LIÊN KẾT DỰ ÁN
 
-- GitHub Repository: 👉 [https://github.com/giahoangg/quanly-ban-hoa](https://github.com/giahoangg/quanly-ban-hoa)
+- GitHub Repository: [https://github.com/giahoangg/quanly-ban-hoa](https://github.com/giahoangg/quanly-ban-hoa)
 - Báo cáo LAB1: `docs/LAB1_Nhom2.docx`
 - Báo cáo LAB8: `docs/LAB8_plan.docx`
 
